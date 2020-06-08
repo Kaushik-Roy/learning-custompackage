@@ -18,5 +18,11 @@
 		"psr-4": {
 			"Learning\\Custompackage\\": ""
 		}
-	}
+	},
+	"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Kaushik-Roy/learning-custompackage.git"
+        }
+    ],
 }
